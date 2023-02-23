@@ -1,4 +1,4 @@
-import DiaryDateCalendar from "components/DiaryDateCalendar"
+import DiaryDateCalendar from "components/DiaryProductsListItem/DiaryDateCalendar/DiaryDateCalendar"
 import DiaryAddProductForm from "components/DiaryAddProductForm/DiaryAddProductForm"
 import DiaryProductsList from "components/DiaryProductsList/DiaryProductsList"
 

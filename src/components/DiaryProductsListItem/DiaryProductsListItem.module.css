@@ -2,7 +2,18 @@
   display: flex;
 }
 .button{
-  
+  padding: 0;
+  margin: 0;
+  border: none;
+  border-radius: 4px;
+  background-color: transparent;
+  cursor: pointer;
+  color:  #9B9FAA;
+}
+
+.button:hover,
+.button:focus {
+  transform: rotate(-90deg);
 }
 
 @media (min-width: 320px) {

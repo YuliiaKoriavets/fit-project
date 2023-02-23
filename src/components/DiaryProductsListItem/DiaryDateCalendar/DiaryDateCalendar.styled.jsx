@@ -1,20 +1,6 @@
 import styled from "styled-components";
 import { DatePicker } from '@mui/x-date-pickers';
 
-// export const HeadingStyled = styled.h2`
-//   margin-left: 24px;
-//   margin-right: 12px;
-//   font-size: 34px;
-//   font-weight: 900;
-//   font-family: 'Verdana';
-//   @media screen and (max-width: 767px) {
-//     font-weight: 700;
-//     font-size: 18px;
-//     line-height: 1.1;
-//     margin: 0;
-//   }
-// `;
-
 export const DatePickerStyled = styled(DatePicker)`
     .css-1d3z3hw-MuiOutlinedInput-notchedOutline {
     border: none;
